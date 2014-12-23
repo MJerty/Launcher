@@ -24,7 +24,7 @@ public class Configuration {
     private boolean offlineEnabled = false;
     private String jvmPath;
     private String jvmArgs;
-    private int minMemory = 1024;
+    private int minMemory = 256;
     private int maxMemory = 1024;
     private int permGen = 128;
     private int windowWidth = 1280;
